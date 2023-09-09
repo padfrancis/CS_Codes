@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\CS_Codes\MyFirstCSharp\bin\Debug\net7.0\MyFirstCSharp.exe
+C:\Users\HP\Desktop\CS_Codes\MyFirstCSharp\bin\Debug\net7.0\MyFirstCSharp.deps.json
+C:\Users\HP\Desktop\CS_Codes\MyFirstCSharp\bin\Debug\net7.0\MyFirstCSharp.runtimeconfig.json
+C:\Users\HP\Desktop\CS_Codes\MyFirstCSharp\bin\Debug\net7.0\MyFirstCSharp.dll
+C:\Users\HP\Desktop\CS_Codes\MyFirstCSharp\bin\Debug\net7.0\MyFirstCSharp.pdb
+C:\Users\HP\Desktop\CS_Codes\MyFirstCSharp\obj\Debug\net7.0\MyFirstCSharp.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\CS_Codes\MyFirstCSharp\obj\Debug\net7.0\MyFirstCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\CS_Codes\MyFirstCSharp\obj\Debug\net7.0\MyFirstCSharp.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\CS_Codes\MyFirstCSharp\obj\Debug\net7.0\MyFirstCSharp.AssemblyInfo.cs
+C:\Users\HP\Desktop\CS_Codes\MyFirstCSharp\obj\Debug\net7.0\MyFirstCSharp.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\CS_Codes\MyFirstCSharp\obj\Debug\net7.0\MyFirstCSharp.dll
+C:\Users\HP\Desktop\CS_Codes\MyFirstCSharp\obj\Debug\net7.0\refint\MyFirstCSharp.dll
+C:\Users\HP\Desktop\CS_Codes\MyFirstCSharp\obj\Debug\net7.0\MyFirstCSharp.pdb
+C:\Users\HP\Desktop\CS_Codes\MyFirstCSharp\obj\Debug\net7.0\MyFirstCSharp.genruntimeconfig.cache
+C:\Users\HP\Desktop\CS_Codes\MyFirstCSharp\obj\Debug\net7.0\ref\MyFirstCSharp.dll
