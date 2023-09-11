@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\Desktop\\CS_Codes\\MyFirstCSharp\\MyFirstCSharp.csproj": {}
+    "c:\\Users\\HP\\Desktop\\CS_Codes\\MyFirstCSharp\\MyFirstCSharp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\Desktop\\CS_Codes\\MyFirstCSharp\\MyFirstCSharp.csproj": {
+    "c:\\Users\\HP\\Desktop\\CS_Codes\\MyFirstCSharp\\MyFirstCSharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Desktop\\CS_Codes\\MyFirstCSharp\\MyFirstCSharp.csproj",
+        "projectUniqueName": "c:\\Users\\HP\\Desktop\\CS_Codes\\MyFirstCSharp\\MyFirstCSharp.csproj",
         "projectName": "MyFirstCSharp",
-        "projectPath": "C:\\Users\\HP\\Desktop\\CS_Codes\\MyFirstCSharp\\MyFirstCSharp.csproj",
+        "projectPath": "c:\\Users\\HP\\Desktop\\CS_Codes\\MyFirstCSharp\\MyFirstCSharp.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Desktop\\CS_Codes\\MyFirstCSharp\\obj\\",
+        "outputPath": "c:\\Users\\HP\\Desktop\\CS_Codes\\MyFirstCSharp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
